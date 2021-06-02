@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>portfolio.lennert.net</loc>
+	<lastmod>2021-06-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>portfolio.lennert.net/buddy/</loc>
+	<lastmod>2021-06-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/swimming%20pool.jpg</image:loc>
+	<image:title>swimming%2520pool</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/user%20interview.jpg</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/ShortOverview_BlindSwimming_v6.007.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/ShortOverview_BlindSwimming_v6.001.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/ShortOverview_BlindSwimming_v6.002.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/ShortOverview_BlindSwimming_v6.003.png</image:loc>
+	<image:title>ShortOverview_BlindSwimming_v6.003</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/ShortOverview_BlindSwimming_v6.004.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/ShortOverview_BlindSwimming_v6.005.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/ShortOverview_BlindSwimming_v6.006.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/20170127-b4b-138.jpg</image:loc>
+	<image:title>IMG_0489.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/20170127-b4b-139.jpg</image:loc>
+	<image:title>IMG_0490.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/IMG_0489.JPG</image:loc>
+	<image:title>IMG_0489.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/IMG_0490.JPG</image:loc>
+	<image:title>IMG_0490.JPG</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_Final_test.mp4</video:content_loc>
+	<video:title>B4B_Final_test</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_Proto_1.mp4</video:content_loc>
+	<video:title>B4B_Proto_1</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_lennert_test.mp4</video:content_loc>
+	<video:title>B4B_lennert_test</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_testing_devider.mp4</video:content_loc>
+	<video:title>B4B_testing_devider</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_testing_above_pool.mp4</video:content_loc>
+	<video:title>B4B_testing_above_pool</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_media_Small.mp4</video:content_loc>
+	<video:title>B4B_media_Small</video:title>
+	</video:video>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>portfolio.lennert.net/laserharp/</loc>
+	<lastmod>2021-06-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>portfolio.lennert.net/parkeerplaats/</loc>
+	<lastmod>2021-06-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>portfolio.lennert.net/spinner/</loc>
+	<lastmod>2021-06-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>portfolio.lennert.net/birthdaycard/</loc>
+	<lastmod>2021-06-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>portfolio.lennert.net/klmopen/</loc>
+	<lastmod>2021-06-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/KLMOpen%20Lennert.JPG</image:loc>
+	<image:title>swimming%2520pool</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/placeholder-image.png</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/user%20interview.jpg</image:loc>
+	<image:title>placeholder%20image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/20170127-b4b-138.jpg</image:loc>
+	<image:title>IMG_0489.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/20170127-b4b-139.jpg</image:loc>
+	<image:title>IMG_0490.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/IMG_0489.JPG</image:loc>
+	<image:title>IMG_0489.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/IMG_0490.JPG</image:loc>
+	<image:title>IMG_0490.JPG</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/silence2.mp4</video:content_loc>
+	<video:title>silence2</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/boring-klmopen-561.mp4</video:content_loc>
+	<video:title>boring-klmopen-561</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_Proto_1.mp4</video:content_loc>
+	<video:title>B4B_Proto_1</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_lennert_test.mp4</video:content_loc>
+	<video:title>B4B_lennert_test</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_testing_devider.mp4</video:content_loc>
+	<video:title>B4B_testing_devider</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_testing_above_pool.mp4</video:content_loc>
+	<video:title>B4B_testing_above_pool</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/B4B_media_Small.mp4</video:content_loc>
+	<video:title>B4B_media_Small</video:title>
+	</video:video>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>portfolio.lennert.net/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
