@@ -168,6 +168,14 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
+	<image:loc>portfolio.lennert.net/img/IMG_0680.gif</image:loc>
+	<image:title>IMG_0680</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/kaart%20small.mp4</video:content_loc>
+	<video:title>kaart%20small</video:title>
+	</video:video>
+	<image:image>
 	<image:loc>portfolio.lennert.net/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
