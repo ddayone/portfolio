@@ -142,6 +142,18 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
+	<image:loc>portfolio.lennert.net/img/10%20spinners.jpg</image:loc>
+	<image:title>10%2520spinners</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/Spinner%20720p%20small%20-%20to%20the%20moon.mp4</video:content_loc>
+	<video:title>Spinner%20720p%20small%20-%20to%20the%20moon</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/lots%20of%20spinners.mp4</video:content_loc>
+	<video:title>lots%20of%20spinners</video:title>
+	</video:video>
+	<image:image>
 	<image:loc>portfolio.lennert.net/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
