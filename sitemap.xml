@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>portfolio.lennert.net</loc>
-	<lastmod>2021-06-02</lastmod>
+	<lastmod>2021-06-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -16,7 +16,7 @@
 </url>
 <url>
 	<loc>portfolio.lennert.net/buddy/</loc>
-	<lastmod>2021-06-02</lastmod>
+	<lastmod>2021-06-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -106,9 +106,13 @@
 </url>
 <url>
 	<loc>portfolio.lennert.net/laserharp/</loc>
-	<lastmod>2021-06-02</lastmod>
+	<lastmod>2021-06-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/harp_in_kast.mp4</video:content_loc>
+	<video:title>harp_in_kast</video:title>
+	</video:video>
 	<image:image>
 	<image:loc>portfolio.lennert.net/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
@@ -120,7 +124,7 @@
 </url>
 <url>
 	<loc>portfolio.lennert.net/parkeerplaats/</loc>
-	<lastmod>2021-06-02</lastmod>
+	<lastmod>2021-06-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -134,7 +138,7 @@
 </url>
 <url>
 	<loc>portfolio.lennert.net/spinner/</loc>
-	<lastmod>2021-06-02</lastmod>
+	<lastmod>2021-06-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -148,7 +152,7 @@
 </url>
 <url>
 	<loc>portfolio.lennert.net/birthdaycard/</loc>
-	<lastmod>2021-06-02</lastmod>
+	<lastmod>2021-06-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -162,7 +166,7 @@
 </url>
 <url>
 	<loc>portfolio.lennert.net/klmopen/</loc>
-	<lastmod>2021-06-02</lastmod>
+	<lastmod>2021-06-04</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -170,8 +174,8 @@
 	<image:title>swimming%2520pool</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>portfolio.lennert.net/img/placeholder-image.png</image:loc>
-	<image:title>placeholder%20image</image:title>
+	<image:loc>portfolio.lennert.net/img/hill%20statement.jpg</image:loc>
+	<image:title>hill%2520statement</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>portfolio.lennert.net/img/user%20interview.jpg</image:loc>
@@ -200,6 +204,10 @@
 	<video:video>
 	<video:content_loc>portfolio.lennert.net/vid/boring-klmopen-561.mp4</video:content_loc>
 	<video:title>boring-klmopen-561</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/makingTrackerPrototype.mp4</video:content_loc>
+	<video:title>makingTrackerPrototype</video:title>
 	</video:video>
 	<video:video>
 	<video:content_loc>portfolio.lennert.net/vid/B4B_Proto_1.mp4</video:content_loc>
