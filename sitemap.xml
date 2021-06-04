@@ -198,6 +198,10 @@
 	<image:title>IMG_4724.JPG</image:title>
 	</image:image>
 	<image:image>
+	<image:loc>portfolio.lennert.net/img/IMG_9356%20%281%29.jpeg</image:loc>
+	<image:title>IMG_9356%2520%25281%2529.jpeg</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>portfolio.lennert.net/img/hill%20statement.jpg</image:loc>
 	<image:title>hill%2520statement</image:title>
 	</image:image>
@@ -228,6 +232,10 @@
 	<video:video>
 	<video:content_loc>portfolio.lennert.net/vid/makingTrackerPrototype.mp4</video:content_loc>
 	<video:title>makingTrackerPrototype</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>portfolio.lennert.net/vid/nodered-klmopen-003.mp4</video:content_loc>
+	<video:title>nodered-klmopen-003</video:title>
 	</video:video>
 	<video:video>
 	<video:content_loc>portfolio.lennert.net/vid/IBM_Casefilm_v501%20-%20small.mp4</video:content_loc>
